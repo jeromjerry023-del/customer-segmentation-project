@@ -1,0 +1,17 @@
+# Core libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# App framework
+streamlit
+
+# Optional (useful for notebooks & Excel files)
+jupyter
+openpyxl
